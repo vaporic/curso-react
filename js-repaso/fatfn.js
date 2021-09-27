@@ -1,4 +1,3 @@
-
 function Fn() {
     this.prop = 'propiedad'
     return 'Hola!'
